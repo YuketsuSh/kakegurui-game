@@ -21,7 +21,7 @@ Pour plus d'informations et pour rester informé des dernières nouvelles et mis
 
 - 📧 **Email** : [contact@kakegurui-game.com](mailto:contact@kakegurui-game.com)
 - 🌐 **Site Web** : [www.kakegurui-game.com](https://www.kakegurui-game.com)
-- 📘 **Discord** : [discord.gg/KakeguruiGame]([https://discord.gg/](https://discord.gg/sKmT59HGrT))
+- 📘 **Discord** : [discord.gg/KakeguruiGame]([https://discord.gg/sKmT59HGr])
 
 Rejoignez-nous dans le monde de **Kakegurui** et vivez une expérience de jeu unique et immersive inspirée de l'univers de **Gambling School**.
 
@@ -50,6 +50,6 @@ For more information and to stay updated with the latest news and updates, follo
 
 - 📧 **Email**: [contact@kakegurui-game.com](mailto:contact@kakegurui-game.com)
 - 🌐 **Website**: [www.kakegurui-game.com](https://www.kakegurui-game.com)
-- 📘 **Discord** : [discord.gg/KakeguruiGame]([https://discord.gg/](https://discord.gg/sKmT59HGrT))
+- 📘 **Discord** : [discord.gg/KakeguruiGame]([https://discord.gg/sKmT59HGr])
 
 Join us in the world of **Kakegurui** and experience a unique and immersive gaming adventure inspired by the universe of **Gambling School**.
