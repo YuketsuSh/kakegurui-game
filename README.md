@@ -1,5 +1,5 @@
 # Kakegurui 🇫🇷
-[![Version Française](https://img.shields.io/badge/Version%20Française-French-red)(#)]
+[![Version Française](https://img.shields.io/badge/Version%20Française-French-red)](#)
 
 
 ## Description
@@ -28,7 +28,7 @@ Rejoignez-nous dans le monde de **Kakegurui** et vivez une expérience de jeu un
 ---
 
 # English Version 🇬🇧
-[![English Version](https://img.shields.io/badge/Version%20Anglaise-English-blue)(#)]
+[![English Version](https://img.shields.io/badge/Version%20Anglaise-English-blue)](#)
 
 
 ## Description
